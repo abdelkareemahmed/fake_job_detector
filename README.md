@@ -125,5 +125,26 @@ Built using:
 
 ---
 
-## 📁 Project Structure
+## 🧑‍💻 Author
+
+**Abdelkareem**  
+Computer Science Student | Machine Learning Enthusiast  
+
+📌 This project was built as a hands-on ML application to demonstrate:
+- Practical NLP
+- Decision-aware modeling
+- End-to-end deployment
+
+---
+
+## ⭐ Final Note
+
+This project emphasizes **thinking like an ML engineer**, not just training a model:
+- Clear problem definition
+- Proper evaluation
+- Interpretable decisions
+- Real-world deployment
+
+If you find this project useful, feel free to ⭐ the repository!
+
 
